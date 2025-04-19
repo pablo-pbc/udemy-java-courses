@@ -11,12 +11,6 @@
       </assistant-state>
     </assistants>
   </component>
-  <component name="DBNavigator.Project.DatabaseBrowserManager">
-    <autoscroll-to-editor value="false" />
-    <autoscroll-from-editor value="true" />
-    <show-object-properties value="true" />
-    <loaded-nodes />
-  </component>
   <component name="DBNavigator.Project.DatabaseConsoleManager">
     <connection id="be452a0a-3644-448c-88fa-889a6f206dc7">
       <console name="Connection" type="STANDARD" schema="coursejdbc" session="Main" />
@@ -25,18 +19,8 @@
   <component name="DBNavigator.Project.DatabaseFileManager">
     <open-files />
   </component>
-  <component name="DBNavigator.Project.ExecutionManager">
-    <retain-sticky-names value="false" />
-  </component>
   <component name="DBNavigator.Project.FileConnectionMappingManager">
     <mapping file-url="file://$PROJECT_DIR$" connection-id="be452a0a-3644-448c-88fa-889a6f206dc7" session-id="MAIN" current-schema="coursejdbc" />
-  </component>
-  <component name="DBNavigator.Project.ObjectQuickFilterManager">
-    <last-used-operator value="EQUAL" />
-    <filters />
-  </component>
-  <component name="DBNavigator.Project.ParserDiagnosticsManager">
-    <diagnostics-history />
   </component>
   <component name="DBNavigator.Project.Settings">
     <connections>
